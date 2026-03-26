@@ -1,0 +1,14 @@
+MATRIX OPERATIONS
+
+NORMAL MATRIX
+- search in 2d matrix
+- rotate by 90 deg
+- left rotate each row of matrix K times
+- print matrix in diagonal pattern
+- set the row and column all values to 0 when the mat[i][j] == 0
+
+- 
+
+
+MATRIX WITH 0S AND 1s
+- Find row with min 1s
