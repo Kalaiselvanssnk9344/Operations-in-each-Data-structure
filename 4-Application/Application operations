@@ -1,0 +1,16 @@
+APPLICATION OPERATIONS
+
+- Assign stalls to k cows such that the min distance between any two of them is max.
+- Allocate books to k students such that the max no. of pages should min.
+- Allocate boards to k painters such that the min amount time required to paint all boards.
+- Divide the array into k contigous subarray such that max sum of these subarrays to be minimzed.
+- min no. of days you need to wait to make m bouquet
+
+- find least weight capacity of a boat to ship all weights within d days.
+- find min k speed such that koko eat all bananas within h hours.
+- kth smallest number in multiplication table
+- find kth smallest pair distance
+- ugly number II
+
+- median of two sorted arrays of different sizes
+- find smallest divisor given a threshold
