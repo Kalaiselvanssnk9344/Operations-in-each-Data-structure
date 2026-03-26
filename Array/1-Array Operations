@@ -1,0 +1,48 @@
+ARRAY OPERATIONS AND ALGORITHMS
+
+NORMAL ARRAY WITH RANDOM, ARRANGEMENT OF ELEMENTS
+- Find max and min element
+- Third larget element
+- Search element
+- Rotate the array by one
+- Rotate the array by k
+
+- Find pair of length 2  with target sum
+- Find pair of length 3 with target sum
+- Find pair of length 4 with target sum
+- Find  triplet with sum 0
+- Find the count of triplet in the form of a + b = c.
+
+- trapping rain water
+- majority element (element that appears more than n / 2 times)
+- count inversion (it is no. of pair of elements such that i < j and arr[i] > arr[j])
+- merge intervals (non-overlapping intervals)
+- next permutation
+
+-
+
+SORTED ARRAY
+- Remove duplicates in sorted array
+- 
+
+TWO SORTED ARRAY
+- Kth element of two sorted arrays
+
+TWO NORMAL ARRAYS WITH RANDOM ARRANGEMENT OF ELEMENTS 
+- Check if two arrays are equal or not
+- Check one array is subset of another array
+- Union of arrays (Arrays with duplicate)
+- Intersection of arrays
+
+
+ARRAY CONTAINS ONLY 0s, 1s, and 2s 
+- Sort 0s, 1s, and 2s in ascending order without using built-in functions
+
+ARRAY WITH CONTINUOS RANGE FROM 1 TO N
+- Find missing number in the range from 1 to n
+- Count frequency of all numbers 
+
+ARRAY WITH SUBARRAY
+- Longest subarray with sum of k
+- Subarray with max sum
+- Subarray with max product
