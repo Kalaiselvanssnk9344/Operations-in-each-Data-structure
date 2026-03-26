@@ -23,7 +23,19 @@ NORMAL ARRAY WITH RANDOM, ARRANGEMENT OF ELEMENTS
 
 SORTED ARRAY
 - Remove duplicates in sorted array
-- 
+- Search in sorted array
+- largest number in array that is less than or equal to given x.
+- find first and last occurence of element x in array with some duplicates
+
+
+ROTATED SORTED ARRAY
+- Search in rotated sorted array
+- find min element in rotated sorted array
+- find how many times the array is rotated by right
+
+BITONIC ARRAY
+- find peak element in bitonic array (element is peak if it greater than its adjacent elements)
+- search in bitonic array
 
 TWO SORTED ARRAY
 - Kth element of two sorted arrays
@@ -37,6 +49,7 @@ TWO NORMAL ARRAYS WITH RANDOM ARRANGEMENT OF ELEMENTS
 
 ARRAY CONTAINS ONLY 0s, 1s, and 2s 
 - Sort 0s, 1s, and 2s in ascending order without using built-in functions
+- Search in infinite an array that contains 0s and 1s only.
 
 ARRAY WITH CONTINUOS RANGE FROM 1 TO N
 - Find missing number in the range from 1 to n
