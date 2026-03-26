@@ -12,3 +12,9 @@ NORMAL MATRIX
 
 MATRIX WITH 0S AND 1s
 - Find row with min 1s
+- Find row with max 1s
+
+SORTED MATRIX
+- search in sorted matrix (last value of first row is less than the first value of second row)
+- Search in sorted matrix II (last value of first row not to be less than first value of second row)
+- Find a peak element (element is peak, if it is greather than all its adjacent elements)
